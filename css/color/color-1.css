@@ -202,3 +202,6 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a:focus {
 a.back-to {
     background: #e82c40;
 }
+a.back-to:hover {
+    color: #fff;   
+}
